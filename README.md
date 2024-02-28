@@ -2,9 +2,10 @@ Atividade 01 - Linguagem de Programação Crie uma página com HTML5 e CSS confo
 
 O conteúdo da página deve ser algo sobre você:
 
-Trabalho
-Estudos anteriores
-O que você gosta de fazer
-O que não gosta de fazer
-Ou qualquer coisa que você queira contar
-Crie um repositório no Github.com e faça o envio do seu código para esse repositório.
+- Trabalho
+- Estudos anteriores
+- O que você gosta de fazer
+- O que não gosta de fazer
+- Ou qualquer coisa que você queira contar
+
+  Crie um repositório no Github.com e faça o envio do seu código para esse repositório.
